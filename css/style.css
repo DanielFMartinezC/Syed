@@ -31,7 +31,7 @@ body{
     margin: 32px 0 0 420px;
 }
 .subtitle{
-    margin: 6px 0 0 500px;
+    margin: 6px 0 0 600px;
     font-family: 'Hind', sans-serif;
     color: hsl(var(--clr-light));
     font-style:italic;
