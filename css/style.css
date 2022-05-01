@@ -28,7 +28,7 @@ body{
     color: hsl(var(--clr-white));
     font-weight: 100;
     font-size: var(--fs-700);
-    margin: 32px 0 0 420px;
+    margin: 32px 0 0 340px;
 }
 .subtitle{
     margin: 6px 0 0 600px;
@@ -40,4 +40,10 @@ body{
 #img-div{
     margin: 6px 0 0 350px;
     border-radius: 6px;
+}
+#tribute-info{
+    margin: 1px 55px 0 2px
+}
+.linkColor{
+    color:white
 }
