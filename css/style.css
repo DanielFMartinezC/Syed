@@ -28,5 +28,12 @@ body{
     color: hsl(var(--clr-white));
     font-weight: 100;
     font-size: var(--fs-700);
-    margin: 32px 0 0 360px;
+    margin: 32px 0 0 420px;
+}
+.subtitle{
+    margin: 6px 0 0 700px;
+    font-family: 'Hind', sans-serif;
+    color: hsl(var(--clr-light));
+    font-style:italic;
+    font-size: var(--fs-500);
 }
