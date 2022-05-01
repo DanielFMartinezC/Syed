@@ -17,7 +17,7 @@
 
 
 p{
-    font-family: 'Hind', sans-serif
+    font-family: 'Hind', sans-serif;
     color:hsl(var(--clr-light))
 }
 body{
